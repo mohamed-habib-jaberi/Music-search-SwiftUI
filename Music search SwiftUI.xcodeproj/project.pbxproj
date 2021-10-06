@@ -11,6 +11,7 @@
 		8854859C270DD8DA0021D1C1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8854859B270DD8DA0021D1C1 /* ContentView.swift */; };
 		8854859E270DD8DD0021D1C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8854859D270DD8DD0021D1C1 /* Assets.xcassets */; };
 		885485A1270DD8DD0021D1C1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 885485A0270DD8DD0021D1C1 /* Preview Assets.xcassets */; };
+		885485A8270DDB8C0021D1C1 /* EmptyStateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 885485A7270DDB8C0021D1C1 /* EmptyStateView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		8854859B270DD8DA0021D1C1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8854859D270DD8DD0021D1C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		885485A0270DD8DD0021D1C1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		885485A7270DDB8C0021D1C1 /* EmptyStateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmptyStateView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				8854859B270DD8DA0021D1C1 /* ContentView.swift */,
 				8854859D270DD8DD0021D1C1 /* Assets.xcassets */,
 				8854859F270DD8DD0021D1C1 /* Preview Content */,
+				885485A7270DDB8C0021D1C1 /* EmptyStateView.swift */,
 			);
 			path = "Music search SwiftUI";
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				885485A8270DDB8C0021D1C1 /* EmptyStateView.swift in Sources */,
 				8854859C270DD8DA0021D1C1 /* ContentView.swift in Sources */,
 				8854859A270DD8DA0021D1C1 /* Music_search_SwiftUIApp.swift in Sources */,
 			);
