@@ -14,6 +14,7 @@
 		885485A8270DDB8C0021D1C1 /* EmptyStateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 885485A7270DDB8C0021D1C1 /* EmptyStateView.swift */; };
 		885485AA270DDDC60021D1C1 /* ArtworkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 885485A9270DDDC60021D1C1 /* ArtworkView.swift */; };
 		885485AC270DE08A0021D1C1 /* SongResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 885485AB270DE08A0021D1C1 /* SongResponse.swift */; };
+		885485AE270DE0FC0021D1C1 /* DataModelManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 885485AD270DE0FC0021D1C1 /* DataModelManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		885485A7270DDB8C0021D1C1 /* EmptyStateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmptyStateView.swift; sourceTree = "<group>"; };
 		885485A9270DDDC60021D1C1 /* ArtworkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtworkView.swift; sourceTree = "<group>"; };
 		885485AB270DE08A0021D1C1 /* SongResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongResponse.swift; sourceTree = "<group>"; };
+		885485AD270DE0FC0021D1C1 /* DataModelManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataModelManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				885485A7270DDB8C0021D1C1 /* EmptyStateView.swift */,
 				885485A9270DDDC60021D1C1 /* ArtworkView.swift */,
 				885485AB270DE08A0021D1C1 /* SongResponse.swift */,
+				885485AD270DE0FC0021D1C1 /* DataModelManager.swift */,
 				8854859D270DD8DD0021D1C1 /* Assets.xcassets */,
 				8854859F270DD8DD0021D1C1 /* Preview Content */,
 			);
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				885485A8270DDB8C0021D1C1 /* EmptyStateView.swift in Sources */,
+				885485AE270DE0FC0021D1C1 /* DataModelManager.swift in Sources */,
 				885485AA270DDDC60021D1C1 /* ArtworkView.swift in Sources */,
 				8854859C270DD8DA0021D1C1 /* ContentView.swift in Sources */,
 				885485AC270DE08A0021D1C1 /* SongResponse.swift in Sources */,
