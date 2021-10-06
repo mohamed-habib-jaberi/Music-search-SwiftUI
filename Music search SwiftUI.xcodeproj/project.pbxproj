@@ -12,6 +12,7 @@
 		8854859E270DD8DD0021D1C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8854859D270DD8DD0021D1C1 /* Assets.xcassets */; };
 		885485A1270DD8DD0021D1C1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 885485A0270DD8DD0021D1C1 /* Preview Assets.xcassets */; };
 		885485A8270DDB8C0021D1C1 /* EmptyStateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 885485A7270DDB8C0021D1C1 /* EmptyStateView.swift */; };
+		885485AA270DDDC60021D1C1 /* ArtworkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 885485A9270DDDC60021D1C1 /* ArtworkView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		8854859D270DD8DD0021D1C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		885485A0270DD8DD0021D1C1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		885485A7270DDB8C0021D1C1 /* EmptyStateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmptyStateView.swift; sourceTree = "<group>"; };
+		885485A9270DDDC60021D1C1 /* ArtworkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtworkView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,9 +57,10 @@
 			children = (
 				88548599270DD8DA0021D1C1 /* Music_search_SwiftUIApp.swift */,
 				8854859B270DD8DA0021D1C1 /* ContentView.swift */,
+				885485A7270DDB8C0021D1C1 /* EmptyStateView.swift */,
 				8854859D270DD8DD0021D1C1 /* Assets.xcassets */,
 				8854859F270DD8DD0021D1C1 /* Preview Content */,
-				885485A7270DDB8C0021D1C1 /* EmptyStateView.swift */,
+				885485A9270DDDC60021D1C1 /* ArtworkView.swift */,
 			);
 			path = "Music search SwiftUI";
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				885485A8270DDB8C0021D1C1 /* EmptyStateView.swift in Sources */,
+				885485AA270DDDC60021D1C1 /* ArtworkView.swift in Sources */,
 				8854859C270DD8DA0021D1C1 /* ContentView.swift in Sources */,
 				8854859A270DD8DA0021D1C1 /* Music_search_SwiftUIApp.swift in Sources */,
 			);
